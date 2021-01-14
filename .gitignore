@@ -10,7 +10,7 @@
 
 ### the following references represented the default ignored by spring boot definition.
 HELP.md
-!.mvn/wrapper/maven-wrapper.jar
+.mvn/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
